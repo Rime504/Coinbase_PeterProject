@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project is a sophisticated cryptocurrency analysis and visualization tool developed by me in collaboration with PETE an institutional quantitative developer in ,. PETE is a proprietary trading framework designed for high-frequency and quantitative trading strategies, and this project leverages its capabilities to provide deep insights into cryptocurrency markets.
+This project is a sophisticated cryptocurrency analysis and visualization tool developed by me in collaboration with PETE an institutional quantitative developer in , this is a proprietary trading framework designed for high-frequency and quantitative trading strategies, and this project leverages its capabilities to provide deep insights into cryptocurrency markets.
 
 The tool connects to the Coinbase Cloud REST API to fetch historical price data for major cryptocurrencies such as Bitcoin (BTC), Ethereum (ETH), Solana (SOL), and Ripple (XRP). It processes this data using a suite of technical indicators, detects whale activity through volume anomaly analysis, and generates interactive visualizations to aid in trading decisions.
 
