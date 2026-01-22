@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project is a sophisticated cryptocurrency analysis and visualization tool developed by an institutional quantitative developer in collaboration with PETE, an advanced institutional trading system. PETE is a proprietary trading framework designed for high-frequency and quantitative trading strategies, and this project leverages its capabilities to provide deep insights into cryptocurrency markets.
+This project is a sophisticated cryptocurrency analysis and visualization tool developed by me in collaboration with PETE an institutional quantitative developer in ,. PETE is a proprietary trading framework designed for high-frequency and quantitative trading strategies, and this project leverages its capabilities to provide deep insights into cryptocurrency markets.
 
 The tool connects to the Coinbase Cloud REST API to fetch historical price data for major cryptocurrencies such as Bitcoin (BTC), Ethereum (ETH), Solana (SOL), and Ripple (XRP). It processes this data using a suite of technical indicators, detects whale activity through volume anomaly analysis, and generates interactive visualizations to aid in trading decisions.
 
@@ -50,7 +50,6 @@ The project was developed to bridge the gap between raw market data and actionab
 
 What sets this project apart from other crypto analysis tools:
 
-1. **Institutional Integration**: Built on PETE, an institutional trading system, ensuring enterprise-grade reliability and performance.
 
 2. **Comprehensive Indicator Suite**: Combines multiple indicators in a single, cohesive analysis framework, allowing for cross-validation of signals.
 
@@ -137,18 +136,11 @@ Potential areas for expansion:
 - Portfolio optimization features
 - Backtesting framework
 
-## About PETE
-
-PETE (Proprietary Execution and Trading Engine) is an institutional-grade trading system developed by the project author. It provides a robust framework for quantitative trading strategies, risk management, and execution. This Coinbase analysis project was built using PETE's data processing and analysis modules, demonstrating how institutional tools can be adapted for cryptocurrency markets.
-
 ## Contributing
 
 This project is open-source and welcomes contributions. Please submit pull requests or issues via the GitHub repository.
 
-## License
-
-[Specify license if applicable]
-
 ## Contact
 
 For questions or collaborations, please reach out to the project maintainer.
+@rimerizha@gmail.com
